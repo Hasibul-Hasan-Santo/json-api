@@ -9,4 +9,4 @@ A simple REST API project providing demo JSON data for practice and testing purp
 
 ```bash
 
-$ https://raw.githubusercontent.com/Hasibul-Hasan-Santo/json-api/main/technologies.json
+https://raw.githubusercontent.com/Hasibul-Hasan-Santo/json-api/main/technologies.json
