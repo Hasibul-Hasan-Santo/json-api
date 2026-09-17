@@ -34,7 +34,7 @@
     "name": "Node.js",
     "category": "Backend",
     "description": "A cross-platform JavaScript runtime environment built on Chrome's V8 JavaScript engine.",
-    "icon": "https://icon.icepanel.io/Technology/png/Node.js.png",
+    "icon": "https://www.vectorlogo.zone/logos/nodejs/nodejs-icon.svg",
     "rating": 4.8,
     "difficulty": "Intermediate",
     "badge": "Essential"
@@ -44,7 +44,7 @@
     "name": "Express.js",
     "category": "Backend",
     "description": "Fast, unopinionated, minimalist web framework for Node.js application development.",
-    "icon": "https://icon.icepanel.io/Technology/png/Express.png",
+    "icon": "https://www.vectorlogo.zone/logos/expressjs/expressjs-icon.svg",
     "rating": 4.7,
     "difficulty": "Beginner-Friendly",
     "badge": "Lightweight"
